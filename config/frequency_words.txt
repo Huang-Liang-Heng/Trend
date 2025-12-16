@@ -13,40 +13,42 @@
 
 [WORD_GROUPS]
 美联储
-@3
 
 中央经济工作会议
+
 政治局会议
+
 十五五
+
 新质生产力
+
 财政部
-+重磅
-+定调
+
 
 
 OpenAI
 Sam Altman
-@2
+
 
 Deepmind
 Google
-@2
+
 
 Anthopic
 Claude
-@2
+
 
 Deepseek
 梁文锋
-@2
+
 
 AI
 人工智能
-@5
+@20
 
 英伟达
 黄仁勋
-@3
+
 
 
 
