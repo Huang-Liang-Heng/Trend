@@ -16,7 +16,6 @@
 !彩票
 
 [WORD_GROUPS]
-
 Transformer
 LLM
 AGI
