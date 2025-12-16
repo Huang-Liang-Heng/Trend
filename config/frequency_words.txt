@@ -24,33 +24,27 @@
 
 财政部
 
-
-
 OpenAI
 Sam Altman
-
 
 Deepmind
 Google
 
-
 Anthopic
 Claude
-
 
 Deepseek
 梁文锋
 
-
 AI
+@20
+
 人工智能
 @20
 
+
 英伟达
 黄仁勋
-
-
-
 
 劳动生产率
 就业
@@ -59,7 +53,9 @@ AI
 +大模型
 
 白皮书
+
 蓝皮书
+
 研报
 +发布
 +下载
